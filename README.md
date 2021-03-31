@@ -1,8 +1,7 @@
-# Cookiecutter for Data Science with anaconda project
+# Cookiecutter for Data Science with Anaconda Project
 
-Adapted project structure for doing and sharing data science work with anaconda-project. The objectiv of this repo is to provide a **lean** and **flexible** project structure to organize your work. Therefore I removed a whole bunch of artifacts from the original repo (e.g. make files, requirements.txt, etc.) in orer to stay lean with dependencies and project structure. This repo is based on
+Adapted project structure for doing and sharing data science work with anaconda-project. The objectiv of this repo is to provide a **lean** and **flexible** project structure to organize your work. Therefore, I removed a whole bunch of artifacts from the original repo (e.g. make files, requirements.txt, etc.) in order to stay lean with dependencies and project structure. This repo is based on 
 #### (http://drivendata.github.io/cookiecutter-data-science/)
-
 
 ### Requirements to use the cookiecutter template:
 -----------
