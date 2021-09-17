@@ -80,6 +80,9 @@ data/**
 !data/**/
 !data/**/.gitkeep
 
+# exclude envs from source control
+/envs
+
 # Mac OS-specific storage files
 .DS_Store
 
